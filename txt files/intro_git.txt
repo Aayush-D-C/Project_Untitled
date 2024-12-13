@@ -1,0 +1,22 @@
+First setup username and user email address
+
+1. Git clone url_link
+2. Git init
+3. Folder created > file created
+4. Git has no idea about our Folder
+5. We have to say the git to track that file
+6. git add file / git add .
+7. We decide should wew commit or not
+8. IF not to be commited git reset
+9. if we want to commit then 
+    git commit -m "Message given"
+10. To check our checkpoints -> git log
+11. git log --oneline [Seimple one line]
+12. If we modify any files/ folders
+    then we check the diff 
+    git diff
+13. If we want the diff we add then commit.
+13. IF not , to restore modified files we use git restore .
+14. Restore sets file to last checkpoint nothing to be commited
+15. IF all ok we push the data to main codebase
+16. git push -u origin branch_name
