@@ -1,1 +1,3 @@
-# This is the beginning of our project
+# Project: StormBoard
+
+<img src="images/title_screen.webp">
